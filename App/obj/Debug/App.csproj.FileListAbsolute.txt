@@ -1,0 +1,9 @@
+C:\Users\Mehmet22\Desktop\NullVM\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\Mehmet22\Desktop\NullVM\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet22\Desktop\NullVM\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet22\Desktop\NullVM\Bin\App.exe.config
+C:\Users\Mehmet22\Desktop\NullVM\Bin\App.exe
+C:\Users\Mehmet22\Desktop\NullVM\Bin\App.pdb
+C:\Users\Mehmet22\Desktop\NullVM\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\Mehmet22\Desktop\NullVM\App\obj\Debug\App.exe
+C:\Users\Mehmet22\Desktop\NullVM\App\obj\Debug\App.pdb
