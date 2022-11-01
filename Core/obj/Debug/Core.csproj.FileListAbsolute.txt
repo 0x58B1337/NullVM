@@ -1,0 +1,9 @@
+C:\Users\Mehmet22\Desktop\NullVM\Bin\Core.dll
+C:\Users\Mehmet22\Desktop\NullVM\Bin\Core.pdb
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.Properties.Resources.resources
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.csproj.GenerateResource.cache
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.dll
+C:\Users\Mehmet22\Desktop\NullVM\Core\obj\Debug\Core.pdb

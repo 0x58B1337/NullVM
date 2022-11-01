@@ -1,0 +1,6 @@
+C:\Users\Mehmet22\Desktop\NullVM\Bin\Runtime.dll
+C:\Users\Mehmet22\Desktop\NullVM\Bin\Runtime.pdb
+C:\Users\Mehmet22\Desktop\NullVM\Runtime\obj\Debug\Runtime.csproj.AssemblyReference.cache
+C:\Users\Mehmet22\Desktop\NullVM\Runtime\obj\Debug\Runtime.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet22\Desktop\NullVM\Runtime\obj\Debug\Runtime.dll
+C:\Users\Mehmet22\Desktop\NullVM\Runtime\obj\Debug\Runtime.pdb
